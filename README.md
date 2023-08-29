@@ -1,3 +1,7 @@
+
+![Screenshot (38)](https://github.com/Vatsal2401/Google-meet-clone/assets/96469205/873ef1bd-e5d5-4eb3-aa57-d491bf462b0f)
+
+
 # React + Vite + Tailwind CSS Starter
 
 This is a starter template for building modern web applications using React, Vite, and Tailwind CSS. It provides a fast development environment and efficient styling capabilities.
